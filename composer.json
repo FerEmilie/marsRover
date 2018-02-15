@@ -1,0 +1,13 @@
+{
+    "name": "emilie/mars-rover",
+    "authors": [
+        {
+            "name": "FerEmilie",
+            "email": "fernandezemilie@ymail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.6"
+    }
+}
